@@ -23,4 +23,9 @@ This is a cross-site request forgery CSRF vulnerability in  the widget-editing a
  
 Example of this is found at https://github.com/WordPress/WordPress/commit/03e5c0314aeffe6b27f4b98fef842bf0fb00c733
 
+CVE-2016-5836
+This vulnerability allows remote attackers to cause a denial of service attack via unspecified vendors due to the oEmbed protocol implementation in the WordPress. This vulnerability existed in Wordpress version 4.5.2 and was secured in the 4.5.3 version. This has a CVSS score of 5.0 and was considered to be a low level of access complexity, meaning that very little knowledge is needed to exploit this. The CWE is not defined for this vulnerability.
+
+
+
 
